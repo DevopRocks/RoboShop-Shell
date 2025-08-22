@@ -17,4 +17,8 @@ npm install
 
 systemctl daemon-reload
 systemctl enable cart
+<<<<<<< HEAD
 systemctl start cart
+=======
+systemctl start cart
+>>>>>>> 3a98da5 (last assignment)
